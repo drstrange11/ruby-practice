@@ -1,1 +1,0 @@
-puts "Hello. We are going to start the assignment."
