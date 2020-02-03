@@ -18,7 +18,7 @@ class Person
     #accept a `last_name` parameter
     #search the `people` class attribute for instances with the same `last_name`
     #return a collection of matching instances
-    @@people.select {|obj| obj.last_name == last_name
+    @@people.select {|obj| obj.last_name == last_name}
 
   end
 
